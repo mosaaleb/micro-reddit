@@ -1,24 +1,8 @@
-# README
+# micro reddit
+In this simple project we have created models for `User`, `Post` and `Comment` with its associations and validations. 
+The goal of this project is to visualize the associations between models and successfully build the active record.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Collaborators
+[Saheed Oladele](https://github.com/suretrust)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Muhammad Ebeid](https://github.com/mosaaleb)
